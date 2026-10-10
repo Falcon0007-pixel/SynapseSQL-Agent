@@ -1,0 +1,18 @@
+# environment and secrets
+venv/
+.env
+
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# data you don't want public
+*.db
+*.sqlite
+data/private/
+
+# editor / OS
+.vscode/
+.idea/
+.DS_Store
