@@ -10,7 +10,6 @@ __pycache__/
 # data you don't want public
 *.db
 *.sqlite
-data/private/
 
 # editor / OS
 .vscode/
